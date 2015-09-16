@@ -1,0 +1,17 @@
+What are three guiding rules/ principles for this class?
+
+
+- Read the problem!!
+-Try diff solutions!
+- Read error msgs to find out WHY they didn't work.
+
+What does this look like in practice? 
+It looks like the simple problem solving process.
+
+
+The problem solving process:
+1.Define the problem
+2.Generate Solutions
+3.Decide the  course of action
+4.Implement the solution
+5.Evaluate the solution

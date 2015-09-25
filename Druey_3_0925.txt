@@ -1,0 +1,19 @@
+Paid License: A license under which all royalties have been paid
+
+Shareware: Sofrware that is free but then may make you pay to keep using it
+
+Trialware: Software that is free for a limited time
+
+Ad-ware: Software that displays advertisments without the person's permission
+
+Crippleware:  Software that is sized down so people will be craving the full version
+
+Freemium: A l337 h4x0rd strat to provide something free of charge BUT cachemonet gives you more access
+
+Freeware (Vs Free-OpenSource): Freeware is just freeee software while Free-OpenSource is both free, AND the source code is accessable
+
+Richard Stallman: The founder of FSF and GNU. 
+
+Lawrence Lessig: A leading member of FSF, running for president, but also has a background of copyright issues.
+
+Eben Moglen: Chairman of the Software Freedom Law Center

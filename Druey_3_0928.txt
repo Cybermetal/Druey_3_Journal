@@ -1,0 +1,6 @@
+How can you count in Java?
+You can count in Java by using a for loop, then print out all of your numbers you want to be countified.
+
+How can you check if a number is divisible?
+You can check a dumbers divisibility by dividing it using your own calculator! Ya silly willy.
+

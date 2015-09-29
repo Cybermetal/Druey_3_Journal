@@ -1,0 +1,3 @@
+What is a Method? 
+
+A method is a function, a little program. Something you may want to do over and over again.

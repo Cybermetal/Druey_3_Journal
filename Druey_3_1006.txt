@@ -1,0 +1,11 @@
+What are classes?
+Classes are containers that holds objects for instances.
+
+What are methods?
+A method is a procedure that the computer does to accomplish/make something. 
+
+What is an instance?
+An instance is a copy of a program.
+
+What are class methods?
+Class methods are a procedure that holds information.

@@ -1,0 +1,4 @@
+To import an image into the slick game, you must create a new class, and from there, you must import the image from where its file is located on your computer.
+
+It is drawn in the code that you can change where it is placed.
+

@@ -1,0 +1,5 @@
+A class constructor is a thing that lets you create new classes.
+
+Animation, hitbox and hit points should be included in this class because the orbs are going to be an entity that acts as if it were a weapon.
+
+The methods that the orb should have is moving, taking away the player and enemies health, and most likely homing... or "following" the player.

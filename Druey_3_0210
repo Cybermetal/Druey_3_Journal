@@ -1,0 +1,5 @@
+1. For some reason, there is one error in my code that I cannot sort out if my life depended on it. On line 52 of my code, NetBeans gets mad at me because the name of the game is "EscapeFromGalacticTrouble". What is the problem?
+NetBeans says that the way to fix it is to add an abstract method. I've tried that, and it still doesn't work. After asking for help, having an abstract class isn't the right way to go; at all. What exactly is the problem?
+Is it because it I refactored the name of the game wrong?
+
+2. How do I get the camera to ACTUALLY FOLLOW ME? For some reason, when the game was working, the camera focused on one spot.

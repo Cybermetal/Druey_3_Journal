@@ -1,0 +1,21 @@
+1.What are arrays used for?
+Arrays are used for allowing objects to be initialized, rendered, and updated.
+2.What is the code for an int array?
+int() anArray;
+3.What is the code for an String array?
+private String name = new String();
+4.What is the code for an boolean array?
+static Boolean = newcar new car = False;
+5.What is the code for a double array?
+int()() int A
+6.How would you change the first value of the int array to 42?
+
+7.Of the String array to "Bob"?
+
+8.What does this do: private String[] dessert = new String[3];
+
+9.What does this do: private String[] postres = {"rice pudding", "pan dulce", "bunuelos"}
+
+10.How are they different?
+
+11.How would we replace "bunuelos" with "apple pie"?

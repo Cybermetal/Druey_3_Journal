@@ -1,0 +1,14 @@
+public static void Hero() {
+	String heroName = "p";
+	int health = 1000;
+	int score = 12;
+	int strength = 16;
+	String weapon = "Boomerang"
+	int dexterity = 4;
+	int perception = 10;
+	int level();
+	String n;
+	int x;
+	int y;
+	int z;
+}

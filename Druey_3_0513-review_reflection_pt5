@@ -1,0 +1,18 @@
+    The Slick assignment was intended to gently familiarize you with 2-D arrays. 
+    Some students recognized the 2-D arrays from Slick and previous journals --- other students had no recollection. 
+    Which were you? Why? Note - attributing the environment is not pragmatic - as students experienced the same environment (though they might have experienced it differently)
+    Make a list of ten questions related to the Array assignments pt 1 and 2 - that you predict will be on the semester exam. 
+    E.g., object initialization, class constructors, creating and changing arrays, etc.
+    
+    I believe that these questions might appear on the test:
+    1.How to you create a class?
+    2.How do you create an array?
+    3.What code will you use to create movement and user inputs?
+    4.How do you make a player object?
+    5.How do you create a 100x100 array?
+    6.How will you go about creating weapons?
+    7.How will you make the weapons deal damage to enemies?
+    8.How could you create a variable for an integer?
+    9.How did you make enemies move?
+    10.How do you make the enemies deal damage towards the player?
+    

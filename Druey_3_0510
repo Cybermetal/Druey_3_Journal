@@ -1,0 +1,22 @@
+public class Skelmandud{
+  public health = 100;
+  public int score = 0;
+  boolean hasPoo = true;
+  public int wise = 5;
+  public int intelligence = 1;
+  int x;
+  int y;
+  int z;
+  string symbol;
+public static void main (string[] args) {
+  Scanner name = new Scanner(System.in); 
+  System.out.println("What is your name, dudbro?")
+  heroName = name.next();
+  System.out.println("Welcome " + heroName + "!");
+  Scanner symbol = new Scanner(System.in); 
+  System.out.println("Which character do you want man? Pick one of the given symbols and type it in: @, #, %")
+  heroSymbol = symbol.next();
+  System.out.println("You have choosen " + heroSymbol + ".");
+  }
+    }
+    

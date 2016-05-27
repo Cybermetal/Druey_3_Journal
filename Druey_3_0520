@@ -1,0 +1,12 @@
+    Given the class Ogre:
+    1. Provide an example class with class constructor
+    2. Give an example of instantiation of an Ogre object
+    3. Provide a setter for positioning
+    4. Provide an example of using an ogre's move method
+    5. Provide an example array of 3 ogres.
+
+
+public class Ogree {
+Ogree[] Ogres = new Ogree[3];
+int x;
+int y;
